@@ -6,11 +6,11 @@
 
 **We provide an API service that allows you to programtically move money (pay and get paid).**
 
-**Our service is like Stripe + Bank Account****
+**Our service = Card Gateway + Open Banking + Bank Account**
 
 We are based in Ireland and support the following payment networks:
 
-- Cards (Visa, MasterCard, ApplePay etc)
+- Cards (Visa, MasterCard, ApplePay, GooglePay etc)
 - SEPA (European Union Euro zone bank network)
 - Faster Payments (UK GBP bank network)
 - Open Banking (while not a payment network this is an API specification for access to the EU and UK bank networks)
