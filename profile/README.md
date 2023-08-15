@@ -6,7 +6,7 @@
 
 **We provide an API service that allows you to programtically move money (pay and get paid).**
 
-**Our service = Card Gateway + Open Banking + Bank Account**
+**Our service = Card Gateway + Open Banking + Bank Account****
 
 We are based in Ireland and support the following payment networks:
 
