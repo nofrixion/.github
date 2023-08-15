@@ -6,18 +6,22 @@
 
 **We provide an API service that allows you to programtically move money (pay and get paid).**
 
-**Our service = Card Gateway + Open Banking + Bank Account****
+**Our service = Card Gateway + Open Banking + Bitcoin + Bitcoin Lightning + Current Account (with IBAN)****
 
 We are based in Ireland and support the following payment networks:
 
 - Cards (Visa, MasterCard, ApplePay, GooglePay etc)
 - SEPA (European Union Euro zone bank network)
 - Faster Payments (UK GBP bank network)
-- Open Banking (while not a payment network this is an API specification for access to the EU and UK bank networks)
+- Open Banking (while not a payment network this is an API specification for access to the EU and UK financial institutions)
 - Bitcoin
 - Bitcoin Lightning
 
 
 ** We are not a Bank but our current accounts are equivalent to a Bank account for payments.
+
+Swagger file: https://api.nofrixion.com/swagger/index.html
+
+Sandbox Access (no sales call required): https://portal-sandbox.nofrixion.com/Home/Register
 
 <img width="1502" alt="API Transparent Bg" src="https://github.com/nofrixion/.github/assets/197660/a915a729-e219-4f34-a456-fa5b1487be6b">
